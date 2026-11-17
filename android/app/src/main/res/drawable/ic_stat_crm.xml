@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monochrome status-bar icon: the Acquiretech AQ junction mark (from the website logo). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M174,28L200,28C234,28 254,48 254,82L254,108C254,128 246,146 231,154L274,194L246,222L188,164L164,164L164,238L82,238C48,238 28,218 28,184L28,158C28,124 48,104 82,104L120,104L120,82C120,48 140,28 174,28ZM82,142C70,142 64,148 64,160L64,184C64,196 70,202 82,202L128,202L128,142ZM174,64C162,64 156,70 156,82L156,128L202,128C214,128 220,122 220,110L220,82C220,70 214,64 202,64Z" />
+</vector>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Acquiretech brand: logo orange on charcoal. -->
+    <color name="crm_accent">#FF5B2C</color>
+    <color name="crm_splash">#191411</color>
+	<color name="ic_launcher_background">#191411</color>
+</resources>
